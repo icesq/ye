@@ -1,0 +1,19 @@
+# systemd unit: sudo cp nova-shop.service /etc/systemd/system/ && sudo systemctl enable --now nova-shop
+# (adjust WorkingDirectory and User)
+[Unit]
+Description=NOVA Store Telegram bot
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/nova-shop
+ExecStart=/usr/bin/python3 main.py
+Restart=always
+RestartSec=5
+KillSignal=SIGTERM
+TimeoutStopSec=15
+
+[Install]
+WantedBy=multi-user.target
