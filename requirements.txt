@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.37.0
+aiosqlite>=0.20
+aiohttp>=3.9
+uvloop>=0.19; sys_platform != "win32"

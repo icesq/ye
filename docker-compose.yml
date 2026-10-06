@@ -1,0 +1,7 @@
+services:
+  shop:
+    build: .
+    restart: unless-stopped
+    volumes:
+      - ./data:/app/data
+      - ./config.py:/app/config.py:ro
