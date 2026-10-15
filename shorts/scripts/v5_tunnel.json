@@ -1,0 +1,55 @@
+{
+ "title": "What If You Jumped Through the Earth?",
+ "music": {
+  "style": "quirky",
+  "seed": 51,
+  "gain": 0.24
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "text": "Rusty dug a tunnel straight through the Earth, and jumped in.",
+   "pause": 0.35
+  },
+  {
+   "id": "l2",
+   "text": "If there's no air inside, gravity pulls him faster and faster.",
+   "pause": 0.3
+  },
+  {
+   "id": "l3",
+   "text": "At the center, he's flying at twenty eight thousand kilometers per hour.",
+   "pause": 0.3
+  },
+  {
+   "id": "l4",
+   "text": "It's about five thousand degrees down here, almost as hot as the surface of the Sun.",
+   "pause": 0.35
+  },
+  {
+   "id": "l5",
+   "text": "And right at the center, gravity is zero.",
+   "pause": 0.15
+  },
+  {
+   "id": "l6",
+   "text": "The Earth pulls on him equally from every side.",
+   "pause": 0.3
+  },
+  {
+   "id": "l7",
+   "text": "Then gravity starts slowing him down.",
+   "pause": 0.3
+  },
+  {
+   "id": "l8",
+   "text": "Forty two minutes after jumping, he pops out on the other side of the planet.",
+   "pause": 0.35
+  },
+  {
+   "id": "l9",
+   "text": "If nobody grabs him, he falls back, and swings back and forth, forever.",
+   "pause": 0.2
+  }
+ ]
+}

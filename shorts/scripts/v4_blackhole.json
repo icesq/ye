@@ -1,0 +1,61 @@
+{
+ "title": "What If You Fell Into a Black Hole?",
+ "music": {
+  "style": "mystery",
+  "seed": 41,
+  "gain": 0.3
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "text": "Rusty fell into a black hole.",
+   "pause": 0.35
+  },
+  {
+   "id": "l2",
+   "text": "Its gravity pulls on his feet much harder than on his head,",
+   "pause": 0.1
+  },
+  {
+   "id": "l3",
+   "text": "so he gets stretched out like a noodle.",
+   "pause": 0.3
+  },
+  {
+   "id": "l4",
+   "text": "Scientists really call this spaghettification.",
+   "say": "Scientists really call this spa-getti-fication.",
+   "pause": 0.4
+  },
+  {
+   "id": "l5",
+   "text": "His friend, watching from far away, sees something strange.",
+   "pause": 0.3
+  },
+  {
+   "id": "l6",
+   "text": "Rusty moves slower, and slower,",
+   "pause": 0.2
+  },
+  {
+   "id": "l7",
+   "text": "turns red, and fades away, frozen at the edge.",
+   "pause": 0.4
+  },
+  {
+   "id": "l8",
+   "text": "But for Rusty, or what's left of him, time runs normally.",
+   "pause": 0.3
+  },
+  {
+   "id": "l9",
+   "text": "He crosses the event horizon, where not even light can escape.",
+   "pause": 0.35
+  },
+  {
+   "id": "l10",
+   "text": "And there's no way back.",
+   "pause": 0.2
+  }
+ ]
+}

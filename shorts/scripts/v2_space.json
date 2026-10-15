@@ -1,0 +1,80 @@
+{
+ "title": "What If You Went to Space Without a Suit?",
+ "music": {
+  "style": "curious",
+  "seed": 21,
+  "gain": 0.24
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "text": "Rusty stepped out into space without a spacesuit.",
+   "pause": 0.35
+  },
+  {
+   "id": "l2",
+   "text": "Will he explode?",
+   "pause": 0.2
+  },
+  {
+   "id": "l3",
+   "text": "Nope.",
+   "pause": 0.35
+  },
+  {
+   "id": "l4",
+   "text": "Freeze solid instantly?",
+   "pause": 0.15
+  },
+  {
+   "id": "l5",
+   "text": "Also no. Space is a vacuum, so his body loses heat very slowly.",
+   "pause": 0.35
+  },
+  {
+   "id": "l6",
+   "text": "First, he has to breathe out.",
+   "pause": 0.15
+  },
+  {
+   "id": "l7",
+   "text": "Holding his breath would rip his lungs apart.",
+   "pause": 0.35
+  },
+  {
+   "id": "l8",
+   "text": "Then the saliva on his tongue starts to boil.",
+   "pause": 0.3
+  },
+  {
+   "id": "l9",
+   "text": "The water in his body turns to vapor, and he swells up to twice his size.",
+   "pause": 0.15
+  },
+  {
+   "id": "l10",
+   "text": "Only his skin holds him together.",
+   "pause": 0.35
+  },
+  {
+   "id": "l11",
+   "text": "After about fifteen seconds, he passes out.",
+   "pause": 0.35
+  },
+  {
+   "id": "l12",
+   "text": "But if his friend pulls him back inside within ninety seconds,",
+   "pause": 0.1
+  },
+  {
+   "id": "l13",
+   "text": "he'll probably survive.",
+   "pause": 0.3
+  },
+  {
+   "id": "l14",
+   "text": "With a nasty sunburn.",
+   "pause": 0.2
+  }
+ ]
+}

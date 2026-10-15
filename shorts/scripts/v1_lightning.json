@@ -1,0 +1,71 @@
+{
+ "title": "What If Lightning Hit You?",
+ "music": {
+  "style": "bouncy",
+  "seed": 11,
+  "gain": 0.22
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "text": "Rusty just got struck by lightning.",
+   "pause": 0.35
+  },
+  {
+   "id": "l2",
+   "text": "Three hundred million volts hit him in a split second.",
+   "pause": 0.3
+  },
+  {
+   "id": "l3",
+   "text": "The air around him heats up to thirty thousand degrees.",
+   "pause": 0.2
+  },
+  {
+   "id": "l4",
+   "text": "That's five times hotter than the surface of the Sun.",
+   "pause": 0.35
+  },
+  {
+   "id": "l5",
+   "text": "But most of the current doesn't even go inside him.",
+   "pause": 0.15
+  },
+  {
+   "id": "l6",
+   "text": "It slides over his skin.",
+   "pause": 0.3
+  },
+  {
+   "id": "l7",
+   "text": "His sweat instantly turns to steam, and blasts his shoes right off.",
+   "pause": 0.35
+  },
+  {
+   "id": "l8",
+   "text": "Red, fern-like patterns bloom across his skin.",
+   "pause": 0.15
+  },
+  {
+   "id": "l9",
+   "text": "They're called Lichtenberg figures.",
+   "say": "They're called Lickten-berg figures.",
+   "pause": 0.35
+  },
+  {
+   "id": "l10",
+   "text": "The real danger? The shock can stop his heart.",
+   "pause": 0.35
+  },
+  {
+   "id": "l11",
+   "text": "Luckily, about nine out of ten people survive.",
+   "pause": 0.3
+  },
+  {
+   "id": "l12",
+   "text": "Just don't hide under a tree in a storm.",
+   "pause": 0.2
+  }
+ ]
+}

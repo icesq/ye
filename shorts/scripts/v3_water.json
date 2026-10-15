@@ -1,0 +1,80 @@
+{
+ "title": "What If You Drank Too Much Water?",
+ "music": {
+  "style": "quirky",
+  "seed": 31,
+  "gain": 0.24
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "text": "Rusty decided to drink six liters of water in three hours.",
+   "pause": 0.35
+  },
+  {
+   "id": "l2",
+   "text": "Sounds healthy, right?",
+   "pause": 0.2
+  },
+  {
+   "id": "l3",
+   "text": "It can actually kill him.",
+   "pause": 0.35
+  },
+  {
+   "id": "l4",
+   "text": "His kidneys can only get rid of about one liter per hour.",
+   "pause": 0.3
+  },
+  {
+   "id": "l5",
+   "text": "The rest stays in his blood, and dilutes the salt.",
+   "pause": 0.3
+  },
+  {
+   "id": "l6",
+   "text": "Now his blood is more watery than his cells, so water rushes into them.",
+   "pause": 0.15
+  },
+  {
+   "id": "l7",
+   "text": "And the cells swell up like balloons.",
+   "pause": 0.35
+  },
+  {
+   "id": "l8",
+   "text": "Most of his body can stretch.",
+   "pause": 0.15
+  },
+  {
+   "id": "l9",
+   "text": "But his brain is locked inside his skull, with nowhere to go.",
+   "pause": 0.35
+  },
+  {
+   "id": "l10",
+   "text": "Headache.",
+   "pause": 0.2
+  },
+  {
+   "id": "l11",
+   "text": "Confusion.",
+   "pause": 0.2
+  },
+  {
+   "id": "l12",
+   "text": "Seizures.",
+   "pause": 0.35
+  },
+  {
+   "id": "l13",
+   "text": "This is called water intoxication.",
+   "pause": 0.3
+  },
+  {
+   "id": "l14",
+   "text": "So drink when you're thirsty, not to win a bet.",
+   "pause": 0.2
+  }
+ ]
+}
