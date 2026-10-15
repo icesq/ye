@@ -1,0 +1,14 @@
+{
+  "name": "rusty-shorts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Procedural cartoon YouTube Shorts generator: Rusty explains science through absurd, dangerous situations.",
+  "scripts": {
+    "render": "node render.js",
+    "make": "./make.sh"
+  },
+  "dependencies": {
+    "@resvg/resvg-js": "2.6.2",
+    "opentype.js": "2.0.0"
+  }
+}
